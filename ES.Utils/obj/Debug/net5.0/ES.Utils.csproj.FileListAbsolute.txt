@@ -1,0 +1,12 @@
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\bin\Debug\net5.0\ES.Utils.deps.json
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\bin\Debug\net5.0\ES.Utils.dll
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\bin\Debug\net5.0\ref\ES.Utils.dll
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\bin\Debug\net5.0\ES.Utils.pdb
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\obj\Debug\net5.0\ES.Utils.csproj.AssemblyReference.cache
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\obj\Debug\net5.0\ES.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\obj\Debug\net5.0\ES.Utils.AssemblyInfoInputs.cache
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\obj\Debug\net5.0\ES.Utils.AssemblyInfo.cs
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\obj\Debug\net5.0\ES.Utils.csproj.CoreCompileInputs.cache
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\obj\Debug\net5.0\ES.Utils.dll
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\obj\Debug\net5.0\ref\ES.Utils.dll
+C:\SoftwareProjects\CSharp\EstateSystem\ES.Utils\obj\Debug\net5.0\ES.Utils.pdb
